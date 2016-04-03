@@ -17,8 +17,9 @@ Video File: 第一話　帝都・花の華撃団　前半.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Active Line: 4
-Video Position: 1756
+Scroll Position: 12
+Active Line: 24
+Video Position: 7629
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -54,6 +55,6 @@ Dialogue: 0,0:04:12.52,0:04:14.39,Default,,0,0,0,,Imperial Navy ensign, Mr. Ōga
 Dialogue: 0,0:04:14.39,0:04:16.99,Default,,0,0,0,,You're hereby appointed as a commanding officer of
 Dialogue: 0,0:04:17.03,0:04:19.26,Default,,0,0,0,,"Imperial Assault Force, Demon Interception Unit, Flower Division"
 Dialogue: 0,0:04:19.26,0:04:22.30,Default,,0,0,0,,In addition, you'll bear another, secret mission.
-Dialogue: 0,0:04:22.30,0:04:25.47,Default,,0,0,0,,To join the unit, you're to go to the Ueno Park.
+Dialogue: 0,0:04:22.30,0:04:25.47,Default,,0,0,0,,To join the unit, you're to head out to the Ueno Park.
 Dialogue: 0,0:04:26.97,0:04:29.57,Default,,0,0,0,,Imperial Army Launtenant General, Maeda Ikki
 Dialogue: 0,0:04:29.57,0:04:31.57,Default,,0,0,0,,
