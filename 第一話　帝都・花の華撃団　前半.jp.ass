@@ -16,9 +16,9 @@ Video File: 第一話　帝都・花の華撃団　前半.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 1
-Active Line: 17
-Video Position: 7707
+Scroll Position: 5
+Active Line: 20
+Video Position: 8083
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -43,4 +43,8 @@ Dialogue: 0,0:04:03.18,0:04:10.70,Default,,0,0,0,,第一話\N帝都・花の華�
 Comment: 0,0:04:10.70,0:04:12.52,Default,,0,0,0,,Intro letter
 Dialogue: 0,0:04:12.52,0:04:14.39,Default,,0,0,0,,帝国海軍少尉　大神一郎殿
 Dialogue: 0,0:04:14.39,0:04:16.99,Default,,0,0,0,,貴殿に、特殊任務として以下の部隊隊長への着任を命ずる。
-Dialogue: 0,0:04:16.99,0:04:18.99,Default,,0,0,0,,
+Dialogue: 0,0:04:17.03,0:04:19.26,Default,,0,0,0,,「帝国華撃団　降魔迎撃部隊　花組」
+Dialogue: 0,0:04:19.26,0:04:22.30,Default,,0,0,0,,尚、本任務は帝都守備のための機密任務である。
+Dialogue: 0,0:04:22.30,0:04:25.47,Default,,0,0,0,,部隊との合流の為上野公園に向かわれたし。
+Dialogue: 0,0:04:26.97,0:04:29.57,Default,,0,0,0,,帝国陸軍中将　米田一基
+Dialogue: 0,0:04:29.57,0:04:31.57,Default,,0,0,0,,
