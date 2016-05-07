@@ -17,7 +17,7 @@ Video File: 第一話　帝都・花の華撃団　その１.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 502
+Scroll Position: 505
 Active Line: 506
 Video Position: 76702
 
@@ -447,7 +447,7 @@ Dialogue: 0,0:36:36.26,0:36:43.43,Default,藤井かすみ,0,0,0,,はじめまし
 Dialogue: 0,0:36:43.60,0:36:50.55,Default,藤井かすみ,0,0,0,,恐れ入りますが、着任届けを書いて頂きたいので、事務局まで来て頂けませんか？
 Dialogue: 0,0:36:50.78,0:36:53.79,Choice,大神一郎,0,0,0,,わかりました。　　　　\N今、忙しいのですが……\N
 Dialogue: 0,0:36:54.62,0:36:57.02,Default,大神一郎,0,0,0,,わかりました。
-Dialogue: 0,0:36:57.59,0:37:01.26,Default,藤井かすみ,0,0,0,,それでは御案内します。ごちらです。
+Dialogue: 0,0:36:57.59,0:37:01.26,Default,藤井かすみ,0,0,0,,それでは御案内します。こちらです。
 Dialogue: 0,0:37:03.26,0:37:07.23,Default,大神一郎,0,0,0,,……ここが事務局ですか。
 Dialogue: 0,0:37:08.17,0:37:17.24,Default,榊原由里,0,0,0,,あ、こんにちは。あなた、大神さんでしょ？あたし榊原由里っていいます！
 Dialogue: 0,0:37:17.41,0:37:22.14,Default,榊原由里,0,0,0,,劇場の事務をしてます。どーぞ、よろしくね！
@@ -503,7 +503,7 @@ Dialogue: 0,0:40:34.59,0:40:34.89,Navigation Hint,,0,0,0,,二階へ
 Dialogue: 0,0:40:35.22,0:40:36.12,Navigation Hint,,0,0,0,,音楽室
 Dialogue: 0,0:40:36.12,0:40:36.82,Navigation Hint,,0,0,0,,衣装部屋
 Dialogue: 0,0:40:36.82,0:40:38.83,Navigation Hint,,0,0,0,,楽屋
-Comment: 0,0:40:39.79,0:40:39.83,Default,,0,0,0,,Talking with Iris in the music room
+Comment: 0,0:40:39.79,0:40:39.83,Default,,0,0,0,,Talking with Iris in the dressing room
 Dialogue: 0,0:40:39.83,0:40:45.36,Default,大神一郎,0,0,0,,（ここは……楽屋みたいだな。なるほど……　こうなっているのか）
 Dialogue: 0,0:40:47.73,0:40:49.30,Default,アイリス,0,0,0,,お兄ちゃん！
 Dialogue: 0,0:40:49.67,0:40:51.60,Default,大神一郎,0,0,0,,ん……アイリスか？
