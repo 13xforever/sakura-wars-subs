@@ -36,10 +36,10 @@ Dialogue: 0,0:00:38.42,0:00:44.54,Default,,0,0,0,,In the imperial capital, teare
 Dialogue: 0,0:00:44.90,0:00:51.48,Default,,0,0,0,,Singing high the song of love, some warriors are leaping forth
 Dialogue: 0,0:00:51.76,0:00:58.28,Default,,0,0,0,,Girls, armed with the hearts of steel
 Dialogue: 0,0:00:58.48,0:01:05.68,Default,,0,0,0,,Scattering the evil, they stand for justice
-Dialogue: 0,0:01:06.20,0:01:12.98,Default,,0,0,0,,Running like the light, Imperial Assault Force
-Dialogue: 0,0:01:12.98,0:01:19.78,Default,,0,0,0,,Roaring like a blast, Imperial Assault Force
-Dialogue: 0,0:01:19.78,0:01:26.54,Default,,0,0,0,,Running like the light, Imperial Assault Force
-Dialogue: 0,0:01:26.54,0:01:35.86,Default,,0,0,0,,Roaring like a blast, Imperial Assault Force
+Dialogue: 0,0:01:06.20,0:01:12.98,Default,,0,0,0,,Fast as light, Imperial Assault Force
+Dialogue: 0,0:01:12.98,0:01:19.78,Default,,0,0,0,,Powerful as blast, Imperial Assault Force
+Dialogue: 0,0:01:19.78,0:01:26.54,Default,,0,0,0,,Fast as light, Imperial Assault Force
+Dialogue: 0,0:01:26.54,0:01:35.86,Default,,0,0,0,,Powerful as blast, Imperial Assault Force
 Dialogue: 0,0:00:38.42,0:00:44.54,Romaji,,0,0,0,,hikisaita yami ga hoe furueru teito ni
 Dialogue: 0,0:00:44.90,0:00:51.48,Romaji,,0,0,0,,ai no uta takaraka ni odorideru senshi-tachi
 Dialogue: 0,0:00:51.76,0:00:58.28,Romaji,,0,0,0,,kokoro made kōtetsu ni busō-suru otome
@@ -52,7 +52,7 @@ Comment: 0,0:01:47.07,0:01:49.07,Default,,0,0,0,,Title
 Comment: 0,0:02:12.59,0:02:14.59,Default,,0,0,0,,New game intro
 Dialogue: 0,0:02:31.74,0:02:34.47,Default,Announcer,0,0,0,,Ueno! Ueno!
 Dialogue: 0,0:02:53.79,0:02:58.14,Legend,,0,0,0,,Asakusa
-Dialogue: 0,0:04:03.18,0:04:10.70,Legend,,0,0,0,,Chapter 1\NFlowers of Flower Division of Imperial Capital
+Dialogue: 0,0:04:03.18,0:04:10.70,Legend,,0,0,0,,Chapter 1\NFlowers of Capital Assault Force
 Comment: 0,0:04:10.70,0:04:12.52,Default,,0,0,0,,Intro letter
 Dialogue: 0,0:04:12.52,0:04:14.39,Default,米田一基,0,0,0,,Imperial Navy ensign Ōgami Ichirō,
 Dialogue: 0,0:04:14.39,0:04:16.99,Default,米田一基,0,0,0,,As a special order, you're assigned as a commanding officer of a secret unit.
